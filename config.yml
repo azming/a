@@ -1,0 +1,17 @@
+# site title
+title: 学习扯淡
+
+# github user
+user: azming
+
+# issue repo
+repo: azming.github.io
+
+# multi-author
+authors:
+
+# per page
+per_page: 100
+
+#sandbox
+sandbox: false
